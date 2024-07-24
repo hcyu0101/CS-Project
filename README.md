@@ -22,3 +22,10 @@
     * K-means Clustering
     * 雙打
 
+### Week 3 (2024/07/18)
+* **Paper**: A Detailed Study of Clustering Algorithms
+* **Ayalytics**: 
+    * 改進Week 3的內容，多增加紀錄對手球種(one-hot-encoding)
+    * 用sklearn實作雙打站位跟球種的關係
+    * K-means Clustering
+    * 雙打
