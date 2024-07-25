@@ -19,13 +19,14 @@
 * **Ayalytics**: 
     * 改進Week 2的內容，增加***紀錄擊球者***
     * 用sklearn實作雙打站位跟球種的關係
-    * K-means Clustering
+    * K-means Clustering，用***Elbow method***找K
     * 雙打
 
-### Week 3 (2024/07/18)
+### Week 4 (2024/07/25)
 * **Paper**: A Detailed Study of Clustering Algorithms
 * **Ayalytics**: 
     * 改進Week 3的內容，增加***紀錄對手球種(one-hot-encoding)***
     * 用sklearn實作雙打站位跟球種的關係
+    * 修改Dataset，挑出14號跟33號選手搭檔的shot(之前有選到14號選手跟其他人搭檔的shot)
     * K-means Clustering
     * 雙打
