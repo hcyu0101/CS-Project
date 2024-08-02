@@ -30,3 +30,11 @@
     * 修改Dataset，挑出14號跟33號選手搭檔的shot(之前有選到14號選手跟其他人搭檔的shot)
     * K-means Clustering
     * 雙打
+
+### Week 5 (2024/08/01)
+* **Paper**: A Supervised Feature Selection Method For Mixed-Type Data using Density-based Feature Clustering
+* **Ayalytics**: 
+    * 延伸Week 4的內容，增加***1場比賽 v.s. 其他六場比賽***的比較
+    * 用sklearn實作雙打站位跟球種的關係
+    * K-means Clustering
+    * 雙打
