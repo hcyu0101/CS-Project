@@ -34,7 +34,17 @@
 ### Week 5 (2024/08/01)
 * **Paper**: A Supervised Feature Selection Method For Mixed-Type Data using Density-based Feature Clustering
 * **Ayalytics**: 
-    * 延伸Week 4的內容，增加***1場比賽 v.s. 其他六場比賽***的比較
+    * 延伸Week 4的內容，增加***1場比賽 v.s. 其他6場比賽***的比較
+    * 用sklearn實作雙打站位跟球種的關係
+    * K-means Clustering
+    * 雙打
+
+### Week 6 (2024/08/08)
+* **Paper**:
+* **Ayalytics**: 
+    * 延伸Week 5的內容，檢視dataset之後發現有兩場比賽的***player AB, CD***標記錯誤，為Week 5不合理的部分做出解釋
+    * 改用百分比呈現***confusion matrix***
+    * 加入***得分與否***的分析
     * 用sklearn實作雙打站位跟球種的關係
     * K-means Clustering
     * 雙打
