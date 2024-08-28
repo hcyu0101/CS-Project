@@ -40,7 +40,7 @@
     * 雙打
 
 ### Week 6 (2024/08/08)
-* **Paper**:
+* **Paper**: Clustering of mixed-type data considering concept hierarchies: problem specification and algorithm
 * **Ayalytics**: 
     * 延伸Week 5的內容，檢視dataset之後發現有兩場比賽的***player AB, CD***標記錯誤，為Week 5不合理的部分做出解釋
     * 改用百分比呈現***confusion matrix***
@@ -48,3 +48,12 @@
     * 用sklearn實作雙打站位跟球種的關係
     * K-means Clustering
     * 雙打
+
+### Week 7~8 (2024/08/15、2024/08/22)
+* **Paper**: Clustering of mixed-type data considering concept hierarchies: problem specification and algorithm
+* **Ayalytics**: 
+    * 把這兩週讀到的論文提供的開元程式碼(ClicoT)抓下來跑
+    * 針對球員位置、對手擊出球種、我方回球球種進行分群，並觀察分群結果跟勝率的關係
+    * 用ClicoT實作單打位置跟勝率的關係
+    * ([ClicoT](https://dm.cs.univie.ac.at/research/downloads/))
+    * 單打
